@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Aravind P — Python Developer</title>
+  <desc id="desc">A cinematic blue-black developer banner with a fine technical grid, orbital geometry, animated gradient and glowing underline.</desc>
+  <defs>
+    <linearGradient id="ap-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070D"/><stop offset=".55" stop-color="#080D18"/><stop offset="1" stop-color="#101D32"/>
+    </linearGradient>
+    <linearGradient id="ap-glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563EB"/><stop offset=".48" stop-color="#38BDF8"/><stop offset="1" stop-color="#BAE6FD"/>
+      <animate attributeName="x1" values="0;0.25;0" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0.75;1" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="ap-grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#BAE6FD" stroke-opacity=".09"/>
+    </pattern>
+    <radialGradient id="ap-halo"><stop offset="0" stop-color="#2563EB" stop-opacity=".48"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+    <filter id="ap-soft-glow" x="-50%" y="-200%" width="200%" height="500%">
+      <feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="430" rx="18" fill="url(#ap-bg)"/>
+  <rect width="1200" height="430" rx="18" fill="url(#ap-grid)"/>
+  <ellipse cx="980" cy="165" rx="340" ry="280" fill="url(#ap-halo)"/>
+  <g fill="none" stroke="#93C5FD" stroke-opacity=".35">
+    <ellipse cx="970" cy="180" rx="215" ry="86" transform="rotate(-28 970 180)"/>
+    <ellipse cx="970" cy="180" rx="215" ry="86" transform="rotate(42 970 180)"/>
+    <ellipse cx="970" cy="180" rx="150" ry="150" stroke-opacity=".15"/>
+    <circle cx="1125" cy="91" r="4" fill="#BAE6FD" stroke="none"/>
+    <circle cx="822" cy="255" r="3" fill="#93C5FD" stroke="none"/>
+    <circle cx="1000" cy="331" r="3" fill="#BAE6FD" stroke="none"/>
+  </g>
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <text x="76" y="74" fill="#93C5FD" font-size="13" letter-spacing="4">STUDENT DEVELOPER / INDIA</text>
+    <text x="72" y="182" fill="#F4F8FF" font-size="76" font-weight="700" letter-spacing="-2">Aravind P</text>
+    <text x="77" y="228" fill="#BAE6FD" font-size="22" letter-spacing="1.4">BTECH CSE STUDENT  ·  PYTHON DEVELOPER</text>
+    <rect x="77" y="257" width="310" height="3" rx="2" fill="#101D32"/>
+    <rect x="77" y="257" width="140" height="3" rx="2" fill="url(#ap-glow)" filter="url(#ap-soft-glow)">
+      <animate attributeName="width" values="70;245;70" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="77" y="301" fill="#F4F8FF" fill-opacity=".75" font-size="16">Learn. Build. Debug. Understand.</text>
+    <text x="77" y="374" fill="#93C5FD" font-size="11" letter-spacing="2.5">PYTHON  /  PROBLEM SOLVING  /  APPLIED AI</text>
+    <text x="1123" y="390" text-anchor="end" fill="#BAE6FD" fill-opacity=".6" font-size="11" letter-spacing="2">AP—01</text>
+  </g>
+  <path d="M0 416H1200" stroke="url(#ap-glow)" stroke-opacity=".75"/>
+</svg>
