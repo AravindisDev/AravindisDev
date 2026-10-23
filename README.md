@@ -1,45 +1,71 @@
-# Hi, I'm Aravind P 👋
+<div align="center">
 
-### Student Developer | Python | Problem Solving
+<img src="assets/aravind-hero.svg" alt="Aravind P — BTech CSE student and Python developer" width="100%">
 
-I'm a student developer currently focused on learning Python, improving my problem-solving skills, and building things while I learn.
+<br>
 
-I don't know everything yet and that's the point. I'm here to learn, experiment, make mistakes, and get better.
+**B.Tech CSE with Applied AI · St Joseph University**
 
----
+*Python · Problem Solving · Software Development*
 
-## 🧑‍💻 About Me
+[GitHub](https://github.com/aravindisdev) · [LinkedIn](https://www.linkedin.com/in/aravindisdev) · [Email](mailto:aravindisdev@gmail.com)
 
-- 🐍 Currently focused on **Python**
-- 🧠 Enjoy solving problems using code
-- 🔌 Can work with **APIs using documentation**
-- 🌱 Currently improving my programming fundamentals
-- 🤖 I use AI as a learning and development tool
-- 🔧 When something breaks, I try to debug it first
-- 📚 Exploring different areas of software development
-- 🎓 Student and aspiring developer
+</div>
 
 ---
 
-## 🛠️ What I Know
+## About
 
-### Languages
-- Python
-- C/C++ (basic)
+I'm Aravind P, a B.Tech Computer Science and Engineering student studying Applied AI at St Joseph University.
 
-### Currently Learning
-- Data Structures & Algorithms
-- Web Development
-- Software Development fundamentals
+I learn by building, testing ideas, reading documentation, and debugging problems. My current focus is strengthening Python and programming fundamentals while exploring backend development and applied AI.
 
-### Tools
-- GitHub
-- VS Code
-- AI coding tools
+- **Building with:** Python and APIs
+- **Learning:** Data Structures & Algorithms, web development, and software engineering fundamentals
+- **Working style:** Learn → Build → Break → Debug → Understand → Improve
+- **Approach:** Use documentation, test assumptions, and understand the code rather than blindly accepting generated output
+
+## Selected work
+
+### [LeetCodeReminder](https://github.com/aravindisdev/LeetCodeReminder)
+
+A Python Telegram bot designed to remind me to solve the LeetCode Daily Challenge.
+
+### More repositories
+
+Explore the rest of my work on [GitHub](https://github.com/aravindisdev?tab=repositories). I’m keeping this section focused on projects with a public repository rather than listing unfinished ideas as completed work.
+
+## Skills
+
+| Category | Current focus |
+| --- | --- |
+| Language | Python |
+| Fundamentals | Problem solving, programming fundamentals |
+| Also learning | C++ basics, Data Structures & Algorithms, web development |
+| Tools | Git, GitHub, VS Code, AI coding tools |
+| Development | Working with APIs through documentation; debugging and iteration |
+
+## GitHub activity
+
+View my real contribution history on [my GitHub profile](https://github.com/aravindisdev?tab=overview).
+
+The contribution graph below is rendered by GitHub itself, so the activity is not manually estimated.
+
+<img src="https://ghchart.rshah.org/2563EB/aravindisdev" alt="GitHub contribution graph for aravindisdev" width="100%">
+
+<sub>If the external chart service is unavailable, use the contribution graph on my GitHub profile.</sub>
+
+## Find me
+
+- **GitHub:** [@aravindisdev](https://github.com/aravindisdev)
+- **LinkedIn:** [aravindisdev](https://www.linkedin.com/in/aravindisdev)
+- **X:** [@aravindisdev](https://x.com/aravindisdev)
+- **Instagram:** [@aravindisdev](https://instagram.com/aravindisdev)
+- **Email:** [mailsofaravind@gmail.com](mailto:aravindisdev@gmail.com)
 
 ---
 
-## 🚀 My Approach
-
-```text
-Learn → Build → Break → Debug → Understand → Improve
+<div align="center">
+<img src="assets/aravind-footer.svg" alt="Learn. Build. Debug. Improve." width="100%">
+<sub>Still learning. Still building.</sub>
+</div>
